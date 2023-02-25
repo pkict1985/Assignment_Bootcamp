@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+reports/
+snap/
+target/
+test-output/
+
